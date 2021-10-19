@@ -1,4 +1,4 @@
-# Content Metadata Dataset from X5GON project
+# Content Metadata Dataset from X5GON Project
 This repository contains a dataset that has relevant metadata relating to majority of the Open Educational Resources indexed in X5GON project.
 
 ## Content data
