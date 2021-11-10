@@ -41,11 +41,9 @@ Google Colab document that demonstrates how the dataset has been loaded in to th
 
 ## Supplementary Resources
 
-The metadata in the dataset can be used to extract more information from the X5GON platform API endpoints. There are two
-API endpoints that can be used. 
+The metadata in the dataset can be used to extract more information from the X5GON platform API endpoints. The main API endpoint can be used to get addtional metadata about the OER materials. 
 
-1. X5GON Rest API  : [https://platform.x5gon.org/products/feed#api](https://platform.x5gon.org/products/feed#api)
-2. X5GON models API: [http://wp3.x5gon.org/lamapidoc](http://wp3.x5gon.org/lamapidoc)
+- X5GON Rest API  : [https://platform.x5gon.org/products/feed#api](https://platform.x5gon.org/products/feed#api)
 
 You can visit the [tutorial colab notebook](https://colab.research.google.com/drive/1_Fb2wCVZlc810POJsy5zG4I3HgKfdQ1i) to see the API endpoints in action.
 
